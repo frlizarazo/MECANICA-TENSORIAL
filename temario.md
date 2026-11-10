@@ -10,7 +10,7 @@ Ver tema de los exámenes en el archivo [examenes.md](examenes.md). Los exámene
 * **Examen 3:** Porcentaje: 20%.
 * **Examen 4:** Porcentaje: 20%.
 
-* * **Quices:** Porcentaje: 5%.
+* **Quices:** Porcentaje: 5%.
 
 En los exámenes siempre se preguntará: teoría, demostraciones, ejercicios numéricos y ejercicios de programación.
 
