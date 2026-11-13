@@ -1,5 +1,14 @@
 # MECÁNICA TENSORIAL
 
+* PROFESOR: Franklin Andrés Lizarazo Muñoz ([flizarazo@unal.edu.co](mailto:flizarazo@unal.edu.co))
+* SEMANAS: 16
+* CRÉDITOS: 4
+* INTENSIDAD HORARIA DE CLASES: 4 horas
+* INTENSIDAD HORARIA AUTÓNOMA: 6 horas (Este es el tiempo que el estudiante debe dedicar por su cuenta para estudiar los temas del curso).
+* Horario de clases para el Grupo 1:
+   * Lunes 14:00-16:00, Salón C310
+   * Miércoles 14:00-16:00, Salón C310
+
 Repositorio del curso de pregrado **Mecánica Tensorial (Mecánica de Medios Continuos)**: diapositivas, material de repaso, bibliografía, códigos y documentos del curso.
 
 ## Estructura
