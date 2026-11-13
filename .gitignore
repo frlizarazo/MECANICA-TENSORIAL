@@ -12,3 +12,5 @@ desktop.ini
 *.toc
 *.fls
 *.fdb_latexmk
+# Ejecutables locales de git
+*.bat
