@@ -1,0 +1,14 @@
+# Archivos temporales de Office y Windows
+~$*
+*.tmp
+Thumbs.db
+desktop.ini
+.DS_Store
+# LaTeX auxiliares
+*.aux
+*.log
+*.synctex.gz
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
